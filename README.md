@@ -2,4 +2,4 @@ A HTML template website I have customised to hold a couple of my projects and my
 
 It is deloyed using Netlify.
 
-Check it out here mgmwood.com
+Check it out here www.mgmwood.com
